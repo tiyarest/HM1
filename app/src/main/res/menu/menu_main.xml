@@ -1,0 +1,10 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.admin.tiktok.MainActivity">
+    <item
+        android:id="@+id/question"
+        android:orderInCategory="100"
+        android:title="抖音满意程度问卷调查"
+        app:showAsAction="never" />
+</menu>
